@@ -24,4 +24,6 @@ done. you'd better log off first!
 
 #### 出现done.代表成功  
 #### you'd better log off first!退出登录即可
+
+完成后 打开 https://3.jetbra.in/ 获取code
  
